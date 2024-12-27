@@ -18,7 +18,7 @@ python four_gallon.py
 
 ### To run the Four Gallon Project in Elixir:
 
-Go into the tabind_elixir directory
+Go into the four_gallon_elixir directory
 
 ```
 cd ./four_gallon_elixir
@@ -33,7 +33,7 @@ mix run ./lib/four_gallon_elixir.ex
 
 ### To run the Four Gallon Project in Rust:
 
-Go into the tabind_rust directory
+Go into the four_gallon_rust directory
 
 ```
 cd ./four_gallon_rust
